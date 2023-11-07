@@ -1,6 +1,8 @@
 const express = require("express");
 const MongoClient = require("mongodb").MongoClient;
 const cors = require("cors");
+const path = require('path');
+
 
 const app = express();
 app.use(cors());
@@ -8,6 +10,9 @@ app.use(express.json()); // Don't forget to parse JSON bodies
 
 const CONNECTION_STRING = "mongodb+srv://admin:carrot64@cluster0.retvxxx.mongodb.net/?retryWrites=true&w=majority";
 const DATABASE_NAME = "todoappdb";
+
+// Added for AWS
+app.use(express.static(path.join(__dirname,'public','build')));
 
 // Connect to MongoDB
 MongoClient.connect(CONNECTION_STRING, { useNewUrlParser: true, useUnifiedTopology: true })
@@ -49,8 +54,15 @@ MongoClient.connect(CONNECTION_STRING, { useNewUrlParser: true, useUnifiedTopolo
         }
     });
 
+    // AWS Config
+    app.get("*", (req, res) => {
+        res.sendFile(path.join(__dirname+'/public/build/index.html'));
+    });
+
     // Start the Express server
-    const PORT = 5038;
+    //const PORT = 5038;
+    // AWS Config
+    const PORT = process.env.PORT || 5038;
     app.listen(PORT, () => {
         console.log(`Server is running on port ${PORT}`);
     });
