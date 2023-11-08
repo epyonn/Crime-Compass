@@ -64,9 +64,11 @@ const CrimeMap: React.FC = () => {
         const fetchLocations = async () => {
         try {
             // Make a GET request to the server to retrieve the collection.
+
             //const response = await axios.get('http://localhost:5038/todoappcollection');
 
             const response = await axios.get('https://obscure-scrubland-34656-8bc24b932b2d.herokuapp.com/todoappcollection')
+            //const response = await axios.get('http://localhost:5038/todoappcollection');
             // Extract the location strings from the response data.
             const locationStrings = response.data.map((item: any) => item.location);
 

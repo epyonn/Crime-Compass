@@ -1384,7 +1384,11 @@
 
 "@eslint/eslintrc@^2.1.3":
   version "2.1.3"
+<<<<<<< HEAD
   resolved "https://registry.npmjs.org/@eslint/eslintrc/-/eslintrc-2.1.3.tgz"
+=======
+  resolved "https://registry.yarnpkg.com/@eslint/eslintrc/-/eslintrc-2.1.3.tgz#797470a75fe0fbd5a53350ee715e85e87baff22d"
+>>>>>>> 21217610 (Implement Node and Express backend. Stores locations in MongoDB.)
   integrity sha512-yZzuIG+jnVu6hNSzFEN07e8BxF3uAzYtQb6uDkaYZLo6oYZDCq454c5kB8zxnzfCYyP4MIuyBn10L0DqwujTmA==
   dependencies:
     ajv "^6.12.4"
@@ -1399,7 +1403,11 @@
 
 "@eslint/js@8.53.0":
   version "8.53.0"
+<<<<<<< HEAD
   resolved "https://registry.npmjs.org/@eslint/js/-/js-8.53.0.tgz"
+=======
+  resolved "https://registry.yarnpkg.com/@eslint/js/-/js-8.53.0.tgz#bea56f2ed2b5baea164348ff4d5a879f6f81f20d"
+>>>>>>> 21217610 (Implement Node and Express backend. Stores locations in MongoDB.)
   integrity sha512-Kn7K8dx/5U6+cT1yEhpX1w4PCSg0M+XyRILPgvwcEBjerFWCwQj5sbr3/VmxqV0JGHCBCzyd6LxypEuehypY1w==
 
 "@floating-ui/core@^1.4.2":
@@ -1762,7 +1770,11 @@
 
 "@mui/base@5.0.0-beta.23":
   version "5.0.0-beta.23"
+<<<<<<< HEAD
   resolved "https://registry.npmjs.org/@mui/base/-/base-5.0.0-beta.23.tgz"
+=======
+  resolved "https://registry.yarnpkg.com/@mui/base/-/base-5.0.0-beta.23.tgz#dd10dfc609d8937749521f940965f757fa3c0f2c"
+>>>>>>> 21217610 (Implement Node and Express backend. Stores locations in MongoDB.)
   integrity sha512-9L8SQUGAWtd/Qi7Qem26+oSSgpY7f2iQTuvcz/rsGpyZjSomMMO6lwYeQSA0CpWM7+aN7eGoSY/WV6wxJiIxXw==
   dependencies:
     "@babel/runtime" "^7.23.2"
@@ -1775,12 +1787,20 @@
 
 "@mui/core-downloads-tracker@^5.14.17":
   version "5.14.17"
+<<<<<<< HEAD
   resolved "https://registry.npmjs.org/@mui/core-downloads-tracker/-/core-downloads-tracker-5.14.17.tgz"
+=======
+  resolved "https://registry.yarnpkg.com/@mui/core-downloads-tracker/-/core-downloads-tracker-5.14.17.tgz#68ec40ea00832fb685f09bd493648b1f68f5baf4"
+>>>>>>> 21217610 (Implement Node and Express backend. Stores locations in MongoDB.)
   integrity sha512-eE0uxrpJAEL2ZXkeGLKg8HQDafsiXY+6eNpP4lcv3yIjFfGbU6Hj9/P7Adt8jpU+6JIhmxvILGj2r27pX+zdrQ==
 
 "@mui/material@^5.14.16":
   version "5.14.17"
+<<<<<<< HEAD
   resolved "https://registry.npmjs.org/@mui/material/-/material-5.14.17.tgz"
+=======
+  resolved "https://registry.yarnpkg.com/@mui/material/-/material-5.14.17.tgz#8e11098e52965be3e9ed117d6c107bbe511fac46"
+>>>>>>> 21217610 (Implement Node and Express backend. Stores locations in MongoDB.)
   integrity sha512-+y0VeOLWfEA4Z98We/UH6KCo8+f2HLZDK45FY+sJf8kSojLy3VntadKtC/u0itqnXXb1Pr4wKB2tSIBW02zY4Q==
   dependencies:
     "@babel/runtime" "^7.23.2"
@@ -1798,7 +1818,11 @@
 
 "@mui/private-theming@^5.14.17":
   version "5.14.17"
+<<<<<<< HEAD
   resolved "https://registry.npmjs.org/@mui/private-theming/-/private-theming-5.14.17.tgz"
+=======
+  resolved "https://registry.yarnpkg.com/@mui/private-theming/-/private-theming-5.14.17.tgz#2fdf9d7df54dcb27e8ae7e00f440eb8310376ec3"
+>>>>>>> 21217610 (Implement Node and Express backend. Stores locations in MongoDB.)
   integrity sha512-u4zxsCm9xmQrlhVPug+Ccrtsjv7o2+rehvrgHoh0siSguvVgVQq5O3Hh10+tp/KWQo2JR4/nCEwquSXgITS1+g==
   dependencies:
     "@babel/runtime" "^7.23.2"
@@ -1807,7 +1831,11 @@
 
 "@mui/styled-engine@^5.14.17":
   version "5.14.17"
+<<<<<<< HEAD
   resolved "https://registry.npmjs.org/@mui/styled-engine/-/styled-engine-5.14.17.tgz"
+=======
+  resolved "https://registry.yarnpkg.com/@mui/styled-engine/-/styled-engine-5.14.17.tgz#7f79d863604076db5278bd38a2eeac44cd2ed336"
+>>>>>>> 21217610 (Implement Node and Express backend. Stores locations in MongoDB.)
   integrity sha512-AqpVjBEA7wnBvKPW168bNlqB6EN7HxTjLOY7oi275AzD/b1C7V0wqELy6NWoJb2yya5sRf7ENf4iNi3+T5cOgw==
   dependencies:
     "@babel/runtime" "^7.23.2"
@@ -1817,7 +1845,11 @@
 
 "@mui/system@^5.14.17":
   version "5.14.17"
+<<<<<<< HEAD
   resolved "https://registry.npmjs.org/@mui/system/-/system-5.14.17.tgz"
+=======
+  resolved "https://registry.yarnpkg.com/@mui/system/-/system-5.14.17.tgz#3e212d1e699d4c777bbe5c6584ae129b1ef7d8bc"
+>>>>>>> 21217610 (Implement Node and Express backend. Stores locations in MongoDB.)
   integrity sha512-Ccz3XlbCqka6DnbHfpL3o3TfOeWQPR+ewvNAgm8gnS9M0yVMmzzmY6z0w/C1eebb+7ZP7IoLUj9vojg/GBaTPg==
   dependencies:
     "@babel/runtime" "^7.23.2"
@@ -1836,7 +1868,11 @@
 
 "@mui/utils@^5.14.17":
   version "5.14.17"
+<<<<<<< HEAD
   resolved "https://registry.npmjs.org/@mui/utils/-/utils-5.14.17.tgz"
+=======
+  resolved "https://registry.yarnpkg.com/@mui/utils/-/utils-5.14.17.tgz#8e2e7ca58865119eec8c6bdb359f539c25aaf576"
+>>>>>>> 21217610 (Implement Node and Express backend. Stores locations in MongoDB.)
   integrity sha512-yxnWgSS4J6DMFPw2Dof85yBkG02VTbEiqsikymMsnZnXDurtVGTIhlNuV24GTmFTuJMzEyTTU9UF+O7zaL8LEQ==
   dependencies:
     "@babel/runtime" "^7.23.2"
@@ -2429,7 +2465,11 @@
 
 "@types/react@*", "@types/react@^18.0.0":
   version "18.2.36"
+<<<<<<< HEAD
   resolved "https://registry.npmjs.org/@types/react/-/react-18.2.36.tgz"
+=======
+  resolved "https://registry.yarnpkg.com/@types/react/-/react-18.2.36.tgz#bc68ffb4408e5d0c419b0760b2eaeec70aeeedb3"
+>>>>>>> 21217610 (Implement Node and Express backend. Stores locations in MongoDB.)
   integrity sha512-o9XFsHYLLZ4+sb9CWUYwHqFVoG61SesydF353vFMMsQziiyRu8np4n2OYMUSDZ8XuImxDr9c5tR7gidlH29Vnw==
   dependencies:
     "@types/prop-types" "*"
@@ -3073,12 +3113,21 @@ asap@~2.0.6:
 
 ast-types-flow@^0.0.8:
   version "0.0.8"
+<<<<<<< HEAD
   resolved "https://registry.npmjs.org/ast-types-flow/-/ast-types-flow-0.0.8.tgz"
   integrity sha512-OH/2E5Fg20h2aPrbe+QL8JZQFko0YZaF+j4mnQ7BGhfavO7OpSLa8a0y9sBwomHdSbkhTS8TQNayBfnW5DwbvQ==
 
 async@^3.2.3, async@^3.2.4:
   version "3.2.5"
   resolved "https://registry.npmjs.org/async/-/async-3.2.5.tgz"
+=======
+  resolved "https://registry.yarnpkg.com/ast-types-flow/-/ast-types-flow-0.0.8.tgz#0a85e1c92695769ac13a428bb653e7538bea27d6"
+  integrity sha512-OH/2E5Fg20h2aPrbe+QL8JZQFko0YZaF+j4mnQ7BGhfavO7OpSLa8a0y9sBwomHdSbkhTS8TQNayBfnW5DwbvQ==
+
+async@^3.2.3:
+  version "3.2.5"
+  resolved "https://registry.yarnpkg.com/async/-/async-3.2.5.tgz#ebd52a8fdaf7a2289a24df399f8d8485c8a46b66"
+>>>>>>> 21217610 (Implement Node and Express backend. Stores locations in MongoDB.)
   integrity sha512-baNZyqaaLhyLVKm/DlvdW051MSgO6b8eVfIezl9E5PqWxFgzLm/wQntEW4zOytVburDEr0JlALEpdOFwvErLsg==
 
 asynciterator.prototype@^1.0.0:
@@ -3117,6 +3166,7 @@ available-typed-arrays@^1.0.5:
 
 axe-core@=4.7.0:
   version "4.7.0"
+<<<<<<< HEAD
   resolved "https://registry.npmjs.org/axe-core/-/axe-core-4.7.0.tgz"
   integrity sha512-M0JtH+hlOL5pLQwHOLNYZaXuhqmvS8oExsqB1SBYgA4Dk7u/xx+YdGHXaK5pyUfed5mYXdlYiphWq3G8cRi5JQ==
 
@@ -3129,6 +3179,11 @@ axios@^1.6.0:
     form-data "^4.0.0"
     proxy-from-env "^1.1.0"
 
+=======
+  resolved "https://registry.yarnpkg.com/axe-core/-/axe-core-4.7.0.tgz#34ba5a48a8b564f67e103f0aa5768d76e15bbbbf"
+  integrity sha512-M0JtH+hlOL5pLQwHOLNYZaXuhqmvS8oExsqB1SBYgA4Dk7u/xx+YdGHXaK5pyUfed5mYXdlYiphWq3G8cRi5JQ==
+
+>>>>>>> 21217610 (Implement Node and Express backend. Stores locations in MongoDB.)
 axobject-query@^3.2.1:
   version "3.2.1"
   resolved "https://registry.npmjs.org/axobject-query/-/axobject-query-3.2.1.tgz"
@@ -3454,7 +3509,11 @@ caniuse-api@^3.0.0:
 
 caniuse-lite@^1.0.0, caniuse-lite@^1.0.30001538, caniuse-lite@^1.0.30001541:
   version "1.0.30001561"
+<<<<<<< HEAD
   resolved "https://registry.npmjs.org/caniuse-lite/-/caniuse-lite-1.0.30001561.tgz"
+=======
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001561.tgz#752f21f56f96f1b1a52e97aae98c57c562d5d9da"
+>>>>>>> 21217610 (Implement Node and Express backend. Stores locations in MongoDB.)
   integrity sha512-NTt0DNoKe958Q0BE0j0c1V9jbUzhBxHIEJy7asmGrpE0yG63KTV7PLHPnK2E1O9RsQrQ081I3NLuXGS6zht3cw==
 
 case-sensitive-paths-webpack-plugin@^2.4.0:
@@ -4293,6 +4352,7 @@ ejs@^3.1.6:
 
 electron-to-chromium@^1.4.535:
   version "1.4.576"
+<<<<<<< HEAD
   resolved "https://registry.npmjs.org/electron-to-chromium/-/electron-to-chromium-1.4.576.tgz"
   integrity sha512-yXsZyXJfAqzWk1WKryr0Wl0MN2D47xodPvEEwlVePBnhU5E7raevLQR+E6b9JAD3GfL/7MbAL9ZtWQQPcLx7wA==
 
@@ -4300,6 +4360,10 @@ email-addresses@^5.0.0:
   version "5.0.0"
   resolved "https://registry.npmjs.org/email-addresses/-/email-addresses-5.0.0.tgz"
   integrity sha512-4OIPYlA6JXqtVn8zpHpGiI7vE6EQOAg16aGnDMIAlZVinnoZ8208tW1hAbjWydgN/4PLTT9q+O1K6AH/vALJGw==
+=======
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.576.tgz#0c6940fdc0d60f7e34bd742b29d8fa847c9294d1"
+  integrity sha512-yXsZyXJfAqzWk1WKryr0Wl0MN2D47xodPvEEwlVePBnhU5E7raevLQR+E6b9JAD3GfL/7MbAL9ZtWQQPcLx7wA==
+>>>>>>> 21217610 (Implement Node and Express backend. Stores locations in MongoDB.)
 
 emittery@^0.10.2:
   version "0.10.2"
@@ -4597,7 +4661,11 @@ eslint-plugin-jest@^25.3.0:
 
 eslint-plugin-jsx-a11y@^6.5.1:
   version "6.8.0"
+<<<<<<< HEAD
   resolved "https://registry.npmjs.org/eslint-plugin-jsx-a11y/-/eslint-plugin-jsx-a11y-6.8.0.tgz"
+=======
+  resolved "https://registry.yarnpkg.com/eslint-plugin-jsx-a11y/-/eslint-plugin-jsx-a11y-6.8.0.tgz#2fa9c701d44fcd722b7c771ec322432857fcbad2"
+>>>>>>> 21217610 (Implement Node and Express backend. Stores locations in MongoDB.)
   integrity sha512-Hdh937BS3KdwwbBaKd5+PLCOmYY6U4f2h9Z2ktwtNKvIdIEu137rjYbcb9ApSbVJfWxANNuiKTD/9tOKjK9qOA==
   dependencies:
     "@babel/runtime" "^7.23.2"
@@ -4690,7 +4758,11 @@ eslint-webpack-plugin@^3.1.1:
 
 eslint@^8.3.0:
   version "8.53.0"
+<<<<<<< HEAD
   resolved "https://registry.npmjs.org/eslint/-/eslint-8.53.0.tgz"
+=======
+  resolved "https://registry.yarnpkg.com/eslint/-/eslint-8.53.0.tgz#14f2c8244298fcae1f46945459577413ba2697ce"
+>>>>>>> 21217610 (Implement Node and Express backend. Stores locations in MongoDB.)
   integrity sha512-N4VuiPjXDUa4xVeV/GC/RV3hQW9Nw+Y463lkWaKKXKYMvmRiRDAtfpuPFLN+E1/6ZhyR8J2ig+eVREnYgUsiag==
   dependencies:
     "@eslint-community/eslint-utils" "^4.2.0"
@@ -4885,7 +4957,11 @@ fast-deep-equal@^3.1.1, fast-deep-equal@^3.1.3:
 
 fast-glob@^3.2.9, fast-glob@^3.3.0:
   version "3.3.2"
+<<<<<<< HEAD
   resolved "https://registry.npmjs.org/fast-glob/-/fast-glob-3.3.2.tgz"
+=======
+  resolved "https://registry.yarnpkg.com/fast-glob/-/fast-glob-3.3.2.tgz#a904501e57cfdd2ffcded45e99a54fef55e46129"
+>>>>>>> 21217610 (Implement Node and Express backend. Stores locations in MongoDB.)
   integrity sha512-oX2ruAFQwf/Orj8m737Y5adxDQO0LAB7/S5MnxCdTNDd4p6BsyIVsv9JQsATbTSq8KHRpLwIHbVlUNatxd+1Ow==
   dependencies:
     "@nodelib/fs.stat" "^2.0.2"
@@ -5931,7 +6007,11 @@ isexe@^2.0.0:
 
 istanbul-lib-coverage@^3.0.0, istanbul-lib-coverage@^3.2.0:
   version "3.2.1"
+<<<<<<< HEAD
   resolved "https://registry.npmjs.org/istanbul-lib-coverage/-/istanbul-lib-coverage-3.2.1.tgz"
+=======
+  resolved "https://registry.yarnpkg.com/istanbul-lib-coverage/-/istanbul-lib-coverage-3.2.1.tgz#c680fd1544600460367af5811866c34c44c6f3b1"
+>>>>>>> 21217610 (Implement Node and Express backend. Stores locations in MongoDB.)
   integrity sha512-opCrKqbthmq3SKZ10mFMQG9dk3fTa3quaOLD35kJa5ejwZHd9xAr+kLuziiZz2cG32s4lMZxNdmdcEQnTDP4+g==
 
 istanbul-lib-instrument@^5.0.4, istanbul-lib-instrument@^5.1.0:
@@ -6703,7 +6783,11 @@ language-subtag-registry@^0.3.20:
 
 language-tags@^1.0.9:
   version "1.0.9"
+<<<<<<< HEAD
   resolved "https://registry.npmjs.org/language-tags/-/language-tags-1.0.9.tgz"
+=======
+  resolved "https://registry.yarnpkg.com/language-tags/-/language-tags-1.0.9.tgz#1ffdcd0ec0fafb4b1be7f8b11f306ad0f9c08777"
+>>>>>>> 21217610 (Implement Node and Express backend. Stores locations in MongoDB.)
   integrity sha512-MbjN408fEndfiQXbFQ1vnd+1NoLDsnQW41410oQBXiyXDMYH5z505juWa4KUE1LqxRC7DgOgZDbKLxHIwm27hA==
   dependencies:
     language-subtag-registry "^0.3.20"
@@ -7028,7 +7112,11 @@ mz@^2.7.0:
 
 nanoid@^3.3.6:
   version "3.3.7"
+<<<<<<< HEAD
   resolved "https://registry.npmjs.org/nanoid/-/nanoid-3.3.7.tgz"
+=======
+  resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-3.3.7.tgz#d0c301a691bc8d54efa0a2226ccf3fe2fd656bd8"
+>>>>>>> 21217610 (Implement Node and Express backend. Stores locations in MongoDB.)
   integrity sha512-eSRppjcPIatRIMC1U6UngP8XFcz8MQWGQdt1MTBQ7NaAmvXDfvNxbvWV3x2y6CdEUciCSsDHDQZbhYaB8QEo2g==
 
 natural-compare-lite@^1.4.0:
@@ -10203,7 +10291,11 @@ yaml@^1.10.0, yaml@^1.10.2, yaml@^1.7.2:
 
 yaml@^2.1.1:
   version "2.3.4"
+<<<<<<< HEAD
   resolved "https://registry.npmjs.org/yaml/-/yaml-2.3.4.tgz"
+=======
+  resolved "https://registry.yarnpkg.com/yaml/-/yaml-2.3.4.tgz#53fc1d514be80aabf386dc6001eb29bf3b7523b2"
+>>>>>>> 21217610 (Implement Node and Express backend. Stores locations in MongoDB.)
   integrity sha512-8aAvwVUSHpfEqTQ4w/KMlf3HcRdt50E5ODIQJBw1fQ5RL34xabzxtUlzTXVqc4rkZsPbvrXKWnABCD7kWSmocA==
 
 yargs-parser@^20.2.2:
