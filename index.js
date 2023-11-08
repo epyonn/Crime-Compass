@@ -6,11 +6,8 @@ const path = require('path');
 
 const app = express();
 
-const corsOptions = {
-    origin: 'https://your-github-username.github.io',
-    optionsSuccessStatus: 200
-  };
-  app.use(cors(corsOptions));
+
+  app.use(cors());
   
 app.use(express.json()); // Don't forget to parse JSON bodies
 
