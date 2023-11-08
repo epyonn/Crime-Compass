@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Crime-Compass/static/css/main.9b39e8c1.css",
-    "main.js": "/Crime-Compass/static/js/main.8ef2923e.js",
+    "main.js": "/Crime-Compass/static/js/main.080696fd.js",
     "index.html": "/Crime-Compass/index.html",
     "main.9b39e8c1.css.map": "/Crime-Compass/static/css/main.9b39e8c1.css.map",
-    "main.8ef2923e.js.map": "/Crime-Compass/static/js/main.8ef2923e.js.map"
+    "main.080696fd.js.map": "/Crime-Compass/static/js/main.080696fd.js.map"
   },
   "entrypoints": [
     "static/css/main.9b39e8c1.css",
-    "static/js/main.8ef2923e.js"
+    "static/js/main.080696fd.js"
   ]
 }
