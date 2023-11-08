@@ -1,2 +1,0 @@
-.crime-map-container{height:100%;width:100%}.crime-map-wrapper{height:100vh;position:relative;width:100vw}.report-form{border-radius:20px;left:50%;max-width:95%;padding:15px;position:absolute;top:10px;transform:translateX(-50%);width:950px;z-index:1}body,html{height:100%;margin:0;padding:0;width:100%}@media (min-width:600px){.report-form{width:950px}}@media (max-width:599px){.report-form{width:80%}}@media (max-width:480px){.report-form{left:auto;margin:10px auto;position:relative;top:auto;transform:none;width:90%;z-index:1}}
-/*# sourceMappingURL=main.9b39e8c1.css.map*/
