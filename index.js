@@ -5,7 +5,13 @@ const path = require('path');
 
 
 const app = express();
-app.use(cors());
+
+const corsOptions = {
+    origin: 'https://your-github-username.github.io',
+    optionsSuccessStatus: 200
+  };
+  app.use(cors(corsOptions));
+  
 app.use(express.json()); // Don't forget to parse JSON bodies
 
 const CONNECTION_STRING = "mongodb+srv://admin:carrot64@cluster0.retvxxx.mongodb.net/?retryWrites=true&w=majority";
