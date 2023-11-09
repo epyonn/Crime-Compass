@@ -44,7 +44,7 @@ const ReportForm: React.FC = () => {
         };
         
         try {
-            const response = await axios.post('http://localhost:5038/todoappcollection', reportData);
+            const response = await axios.post('https://obscure-scrubland-34656-8bc24b932b2d.herokuapp.com/todoappcollection', reportData);
             console.log(response.data);
 
             // Set state back to null
