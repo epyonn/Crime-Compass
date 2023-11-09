@@ -20,6 +20,7 @@ const mapStyles = [
     }
 ];
 
+
 const CrimeMap: React.FC = () => {
     const dispatch = useDispatch();
     const [markerPosition, setMarkerPosition] = useState<{ lat: number, lng: number } | null>(null);
@@ -32,6 +33,8 @@ const CrimeMap: React.FC = () => {
     const [isGoogleMapsLoaded, setIsGoogleMapsLoaded] = useState(false);
 
     const date = useSelector((state: any) => state.form.date);
+    const apiKey = process.env.REACT_APP_GOOGLE_MAPS_API_KEY || '';
+
 
 
     const geocodeLatLng = async (lat: number, lng: number) => {
@@ -130,7 +133,7 @@ const CrimeMap: React.FC = () => {
 
     return (
         <div className="crime-map-wrapper">
-            <LoadScript googleMapsApiKey={'AIzaSyCLu25wqirs0pAPnvjvH4hV4Se7Kcpzmps'} onLoad={() => setIsGoogleMapsLoaded(true)}>
+            <LoadScript googleMapsApiKey={apiKey} onLoad={() => setIsGoogleMapsLoaded(true)}>
                 
                 <GoogleMap
                     mapContainerClassName="crime-map-container"
